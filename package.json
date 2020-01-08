@@ -1,0 +1,21 @@
+{
+  "name": "indo-rss",
+  "version": "1.0.0",
+  "description": "Unofficial RSS feeds for The Irish Independent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "indo",
+    "rss",
+    "serverless"
+  ],
+  "author": "Conor O'Neill",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "rss": "^1.2.2"
+  }
+}
